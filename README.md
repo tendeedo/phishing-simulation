@@ -1,10 +1,10 @@
-Phishing Simulation: Payment Processor Company  
+<h1>Phishing Simulation: Payment Processor Company</h1>
 
 <h3>Timeline</h3>
 DESCRIPTION.
 <br>
 
-<h3>About the client/h3>
+<h3>About the client</h3>
 DESCRIPTION.
 <br>
 
